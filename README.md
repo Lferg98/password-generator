@@ -1,4 +1,4 @@
-# My Web Portfolio - Module 2 Homework
+# Password Generator - Module 3 Homework
 
 ## Introduction:
 This repository reflects the third challenge given to students in the Monash University Coding Bootcamp.
