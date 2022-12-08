@@ -17,6 +17,7 @@ This project requires no installation, and is currently running at the following
     
 ## Mockup of Website:
 
-C:\Users\User\Desktop\bootcamp\Homework\password-generator\Assets\03-javascript-homework-demo.png
+![password-generatorss](https://user-images.githubusercontent.com/114797368/206435515-a8a1f12b-3e2f-462e-acb1-7d9eb282d52f.JPG)
+
 
 
