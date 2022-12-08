@@ -17,6 +17,6 @@ This project requires no installation, and is currently running at the following
     
 ## Mockup of Website:
 
-! [] (Assests/03-javascript-homework-demo.png)
+C:\Users\User\Desktop\bootcamp\Homework\password-generator\Assets\03-javascript-homework-demo.png
 
 
