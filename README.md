@@ -17,6 +17,6 @@ This project requires no installation, and is currently running at the following
     
 ## Mockup of Website:
 
-<img src='/repository/assests/03-javascript-homework-demo.png"
+![](assests/03-javascript-homework-demo.png)
 
 
